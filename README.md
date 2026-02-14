@@ -10,11 +10,6 @@ Beaucoup de petits restaurants gèrent encore leurs commandes et leurs devis man
 * **Base de données :** MySQL
 * **Déploiement :** InfinityFree (Hébergement FTP)
 
-# Captures d'écran
-
-
-
-
 # Installation et Lancement
 Pour lancer ce projet localement :
 
