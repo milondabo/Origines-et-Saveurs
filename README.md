@@ -1,4 +1,4 @@
-# Origine & Saveur - Application de Gestion de Restaurant
+<img width="959" height="476" alt="Acceuil1" src="https://github.com/user-attachments/assets/a409ff35-f367-4d35-bdb1-a06314e93261" /># Origine & Saveur - Application de Gestion de Restaurant
  Une solution élégante pour allier gastronomie et gestion numérique.
 
 # Le problème résolu
@@ -12,7 +12,8 @@ Beaucoup de petits restaurants gèrent encore leurs commandes et leurs devis man
 
 # Captures d'écran
 
-![Haut de la page acceuil](Acceuil1.png) ![bas de la page acceuil](acceuil2.png) ![page gestion de commandes sur le dashboard](Commandes.png) ![connexion au dashboard](connexion_dashboard_os.png) ![dashboard](Dashboard.png)
+
+
 
 # Installation et Lancement
 Pour lancer ce projet localement :
