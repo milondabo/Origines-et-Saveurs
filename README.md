@@ -36,3 +36,6 @@ Le projet est consultable en direct ici :
 4. **Lancement :**
    * Placez le dossier du projet dans votre répertoire `htdocs` ou `www`.
    * Accédez au site via `http://localhost/Origines-et-Sauveurs`.
+  
+  **NB :**
+  Les images utilisées dans le projets sont celles à la racines, vous pourez reffaire les routes ou les enregistrez dqns le dossier `OSphp-Copie`
