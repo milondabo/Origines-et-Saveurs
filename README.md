@@ -27,7 +27,7 @@ Le projet est consultable en direct ici :
 
 3. **Configuration de la Base de Données :**
    * Créez une base de données MySQL localement (via XAMPP/WAMP).
-   * Importez le fichier `votre_fichier.sql` (disponible dans le dossier `/sql`) pour recréer la structure et les données.
+   * Importez le fichier `votre_fichier.sql` (disponible dans le dossier ) pour recréer la structure et les données.
    * Modifiez le fichier `includes/db.php` avec vos accès locaux :
      ```php
      $host = 'localhost';
